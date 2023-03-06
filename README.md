@@ -1,2 +1,2 @@
 # Flashcards
-# This is a bootcamp project covering react hooks, routers, useState, useEffect, as well as various other react tools.
+This is a project from thinkful's bootcamp covering react hooks, routers, useState, useEffect, as well as various other react tools.
